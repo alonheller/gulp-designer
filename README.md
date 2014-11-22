@@ -6,4 +6,4 @@ Setup with:
 
 Run for debug with: gulp serve
 
-Used the seed from: https://github.com/Swiip/generator-gulp-angular
+Used the seed from: https://github.com/Swiip/generator-gulp-angular.
